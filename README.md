@@ -76,3 +76,6 @@ This hybrid dataset improves:
 
 ---
 
+## how to run it on local system  
+
+Open terminal and type>> streamlit app.py
